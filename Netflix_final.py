@@ -40,7 +40,7 @@ choice = st.sidebar.radio("Select Visualization", options)
 # ---------------------------
 # Load Dataset
 # ---------------------------
-df = pd.read_csv("C:/Users/MITADRU/Downloads/netflix_titles_nov_2019.csv")
+df = pd.read_csv("netflix_titles_nov_2019.csv")
 
 # ---------------------------
 # Data Cleaning
@@ -316,3 +316,4 @@ fig.update_layout(title_x=0.5)
 fig.show()
 """
     st.expander("Show Python Code").code(fig_code, language='python')
+
