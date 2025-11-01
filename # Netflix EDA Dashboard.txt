@@ -20,7 +20,8 @@ An interactive Streamlit app to explore the Netflix dataset. The dashboard allow
 ## Technologies Used
 
 - Python 3.x  
-- Pandas, NumPy for data manipulation  
+- Pandas for data manipulation  
 - Matplotlib, Seaborn for visualizations  
 - Plotly for interactive maps  
+
 - Streamlit for the interactive dashboard  
