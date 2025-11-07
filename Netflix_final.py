@@ -8,7 +8,7 @@ sns.set(style="whitegrid")
 
 # ---------------------------
 # Streamlit Page Config
-# ---------------------------xzzxzx
+# ---------------------------
 st.set_page_config(
     page_title="Netflix EDA Dashboard",
     layout="wide",
