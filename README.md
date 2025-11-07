@@ -6,4 +6,5 @@ Interactive Netflix EDA dashboard analyzing movies and TV shows (Nov 2019). Expl
 
 # Netflix EDA Presentation
 
-[**📂 Open Presentation**](https://drive.google.com/drive/folders/1M7sfg8bU0zLzvIBLzd5u4I9hc3hyUVpV?usp=drive_link)
+[![Open Netflix EDA Presentation](https://img.shields.io/badge/Open-Presentation-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1M7sfg8bU0zLzvIBLzd5u4I9hc3hyUVpV?usp=drive_link)
+
