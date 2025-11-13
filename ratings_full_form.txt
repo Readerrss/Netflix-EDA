@@ -1,0 +1,29 @@
+TV-MA – Television Mature Audience
+     Content specifically designed for adults; may include explicit language, strong sexual content, or graphic violence.
+
+TV-14 – Television Parents Strongly Cautioned
+     May contain material inappropriate for children under 14; includes moderate language, violence, or sexual content.
+
+TV-PG – Television Parental Guidance Suggested
+     Contains material that parents may find unsuitable for younger children; mild language or some suggestive themes.
+
+R – Restricted
+     Intended for mature audiences (17+); may include strong language, intense violence, sexual content, or drug use.
+
+PG-13 – Parents Strongly Cautioned
+     Some material may be inappropriate for children under 13; contains moderate violence, language, or suggestive material.
+
+NR – Not Rated
+     The content has not been assigned an official rating by the MPAA or TV rating board.
+
+PG – Parental Guidance Suggested
+     Some material may not be suitable for children; mild language or brief suggestive content.
+
+TV-Y7 – Television Directed to Older Children
+     Suitable for children 7 and older; may include mild fantasy violence or comedic action.
+
+TV-G – Television General Audience
+     Suitable for all ages; little or no violence, language, or sexual content.
+
+TV-Y – Television All Children
+     Designed for children under 7; appropriate for all ages.
